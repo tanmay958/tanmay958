@@ -26,13 +26,13 @@ I earned my B.C.A in Computer Science (with a shiny silver medal, no less!) and 
 
 
 ## GitHub Stats
-
+<!--
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay958&langs_count=6&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
+-->
 
 
 
-## Hi there 👋
 
 <!--
 **tanmay958/tanmay958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

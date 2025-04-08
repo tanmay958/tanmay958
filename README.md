@@ -15,7 +15,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
-Hey there! I’m Tanmay Mandal, a final-year Masters in Computer Applications student at NIT TRICHY with a love for backend magic and efficient code that doesn’t crash at 3 a.m.
+Hey there! I’m Tanmay Mandal, a final-year Masters in Computer Applications (M.C.A) student at NIT TRICHY with a love for backend magic and efficient code that doesn’t crash at 3 a.m.
 
 I earned my B.C.A in Computer Science (with a shiny silver medal, no less!) and have been deep in the world of software engineering ever since. My happy place? Backend development and system design – if it scales and runs smoothly, I’m all in.
 

@@ -1,0 +1,26 @@
+name: header
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Files stay under 1000 lines
+        run: |
+          python3 - <<'PY'
+          import pathlib, sys
+          long = [(p, n) for p in pathlib.Path("header").glob("*.py")
+                  if (n := len(p.read_text().splitlines())) > 1000]
+          for p, n in long:
+              print(f"{p}: {n} lines (max 1000)")
+          sys.exit(1 if long else 0)
+          PY
+      - name: SVGs match the generator
+        run: python3 header/make_header.py --check

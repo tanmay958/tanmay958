@@ -11,8 +11,6 @@
   <a href="mailto:tanmaymandal958@gmail.com?subject=Hey!"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-MCA, NIT Trichy (2025). BCA in Computer Science, silver medal.
-
 ### Tools I reach for
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,python,ts,nodejs,java,kafka,postgres,mongodb,docker,kubernetes,aws,gcp" alt="Go, Python, TypeScript, Node.js, Java, Kafka, Postgres, MongoDB, Docker, Kubernetes, AWS, GCP"></a>
